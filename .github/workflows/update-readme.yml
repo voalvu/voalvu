@@ -5,13 +5,13 @@ on:
     - cron: '0 0 * * *'
   push:
     branches:
-      - main: 
+      - main
   workflow_dispatch:
 
 jobs:
 
   update-readme:
-    runs-on: docker
+    runs-on: ubuntu-latest
     container:
       image: alpine/curl:8.14.1
     steps:
