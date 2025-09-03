@@ -16,6 +16,8 @@ jobs:
       image: alpine/curl:8.14.1
     steps:
       - uses: actions/checkout@v4
+      - name: make script executable
+        run: chmod +x scripts/aa.sh
       - name: run script to update readme
         run: ./scripts/aa.sh
         env:
