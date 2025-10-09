@@ -1,5 +1,3 @@
-## Current hobby goals 160wpm in Monkeytype test english5k (60 seconds, 5000 most common words):
 english_5k","punctuation":false,"raw":107.8,"wpm":107.8,"numbers":false,"timestamp":1759776824903
-english_5k","punctuation":true,"raw":90,"wpm":84.8,"numbers":false,"timestamp":1759776756827
-
-![generated graph draft image](/assets/rendered_graph.png)
+english_5k","punctuation":true,"raw":88.6,"wpm":88.6,"numbers":false,"timestamp":1760021945657
+english_5k","punctuation":true,"raw":86.57,"wpm":86.57,"numbers":true,"timestamp":1760037161972
